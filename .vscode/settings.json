@@ -1,0 +1,22 @@
+{
+  "git.ignoreLimitWarning": true,
+  "editor.formatOnSave": false,
+  // Enable per-language
+  "[javascript]": {
+    "editor.formatOnSave": true
+  },
+  "[typescriptreact]": {
+    "editor.formatOnSave": true
+  },
+  "[typescript]": {
+    "editor.formatOnSave": true
+  },
+  "cSpell.words": [
+    "Graeme",
+    "mortonmusic",
+    "wavesurfer"
+  ],
+  "files.exclude": {
+    "**/node_modules": true
+  }
+}
